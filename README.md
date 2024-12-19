@@ -1,1 +1,1 @@
-# flex-project
+first project i made from absolute scratch which uses flexbox and more updated html css LESGOOOO
